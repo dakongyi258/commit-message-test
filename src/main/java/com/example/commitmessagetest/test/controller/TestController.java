@@ -13,6 +13,6 @@ public class TestController {
 
     @RequestMapping("/qrCodeV2")
     public String qrCodeV2() {
-        return "解决了二维码V2版本问题...。";
+        return "解决了二维码V2版本问题...。33";
     }
 }
