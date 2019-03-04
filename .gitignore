@@ -29,4 +29,4 @@ HELP.md
 ### Commit message ###
 /node_modules
 package*.json
-CHANGELOG.md
+CHANGELOG*.md
