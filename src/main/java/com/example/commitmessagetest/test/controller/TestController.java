@@ -10,4 +10,9 @@ public class TestController {
     public String hello(@RequestParam("name") String name) {
         return "Hello " + name;
     }
+
+    @RequestMapping("/qrCodeV2")
+    public String qrCodeV2() {
+        return "解决了二维码V2版本问题";
+    }
 }
