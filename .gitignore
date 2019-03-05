@@ -30,3 +30,4 @@ HELP.md
 /node_modules
 package*.json
 CHANGELOG*.md
+release.sh
